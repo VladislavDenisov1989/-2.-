@@ -1,0 +1,15 @@
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание - Урок 2. Базовые алгоритмы\урок-2\bin\Debug\net6.0\урок-2.exe
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание - Урок 2. Базовые алгоритмы\урок-2\bin\Debug\net6.0\урок-2.deps.json
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание - Урок 2. Базовые алгоритмы\урок-2\bin\Debug\net6.0\урок-2.runtimeconfig.json
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание - Урок 2. Базовые алгоритмы\урок-2\bin\Debug\net6.0\урок-2.dll
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание - Урок 2. Базовые алгоритмы\урок-2\bin\Debug\net6.0\урок-2.pdb
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание - Урок 2. Базовые алгоритмы\урок-2\obj\Debug\net6.0\урок-2.csproj.AssemblyReference.cache
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание - Урок 2. Базовые алгоритмы\урок-2\obj\Debug\net6.0\урок-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание - Урок 2. Базовые алгоритмы\урок-2\obj\Debug\net6.0\урок-2.AssemblyInfoInputs.cache
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание - Урок 2. Базовые алгоритмы\урок-2\obj\Debug\net6.0\урок-2.AssemblyInfo.cs
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание - Урок 2. Базовые алгоритмы\урок-2\obj\Debug\net6.0\урок-2.csproj.CoreCompileInputs.cache
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание - Урок 2. Базовые алгоритмы\урок-2\obj\Debug\net6.0\урок-2.dll
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание - Урок 2. Базовые алгоритмы\урок-2\obj\Debug\net6.0\refint\урок-2.dll
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание - Урок 2. Базовые алгоритмы\урок-2\obj\Debug\net6.0\урок-2.pdb
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание - Урок 2. Базовые алгоритмы\урок-2\obj\Debug\net6.0\урок-2.genruntimeconfig.cache
+C:\Users\emin\OneDrive\Рабочий стол\Домашние задание - Урок 2. Базовые алгоритмы\урок-2\obj\Debug\net6.0\ref\урок-2.dll
